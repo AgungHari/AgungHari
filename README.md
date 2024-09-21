@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=0e75b6&style=flat" alt="agunghari" /> </p>
 
-- 🔭 I’m currently working on [Smart Wheelchair](https://github.com/AgungHari/Wheelchair-Control-System-Using-Invisible-Steering-Gesture-Based-on-LSTM)
+- 🔭 I’m currently working on [Wheelchair Control System Using Invisible Steering Gesture Based on LSTM](https://github.com/AgungHari/Wheelchair-Control-System-Using-Invisible-Steering-Gesture-Based-on-LSTM)
 
 - 🌱 I’m currently learning **advanced AI techniques, focusing on enhancing my knowledge in machine learning, deep learning, and AI ethics to ensure responsible and impactful AI development. Additionally, I am exploring ways to improve model deployment using MLOps and studying cutting-edge technologies like Edge AI for realtime, ondevice intelligence.**
 
