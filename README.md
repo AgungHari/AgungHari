@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **advanced AI techniques, focusing on enhancing my knowledge in machine learning, deep learning, and AI ethics to ensure responsible and impactful AI development. Additionally, I am exploring ways to improve model deployment using MLOps and studying cutting-edge technologies like Edge AI for realtime, ondevice intelligence.**
 
-- 💬 Don't ask me about **money**
+- 💬 Don't ask me about **tanah**
 
 - ⚡ Fun fact **I play roblox**
 
