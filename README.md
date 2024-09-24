@@ -18,7 +18,7 @@
 </p>
 
 ###
-
+<h3 align="left">Skills:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
   <img width="12" />
