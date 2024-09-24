@@ -72,6 +72,12 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
