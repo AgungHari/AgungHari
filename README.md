@@ -1,3 +1,4 @@
+![universal-personal-banner](agung.png)
 <h1 align="center">Hi 👋, I'm Agung Hari</h1>
 <h3 align="center">AI Engineer from BALI</h3>
 
