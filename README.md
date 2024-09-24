@@ -83,14 +83,5 @@
 
 ###
 
-###
-
-<h3 align="left">I Love this snake</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
 
 ###
