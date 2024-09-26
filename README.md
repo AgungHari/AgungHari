@@ -1,7 +1,6 @@
 ![universal-personal-banner](agung2.png)
 <h3 align="left"> ॐ Om Swastiastu</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=0e75b6&style=flat" alt="agunghari" /> </p>
+Final-year Computer Science student with a strong interest in Artificial Intelligence (AI) and Machine Learning. I am passionate about leveraging AI technology to solve real-world problems and have developed skills in Computer Vision, Deep Learning, and Data Analysis. Eager to continuously learn and apply new AI technologies, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and innovation.
 
 - 🔭 I’m currently working on [Wheelchair Control System Using Invisible Steering Gesture Based on LSTM](https://github.com/AgungHari/Wheelchair-Control-System-Using-Invisible-Steering-Gesture-Based-on-LSTM)
 
@@ -10,7 +9,7 @@
 - 💬 Don't ask me about **tanah**
 
 - ⚡ Fun fact **I play roblox**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=0e75b6&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fi-gusti-ngurah-agung-hari-vijaya-kusuma-890061328">
