@@ -14,13 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/i-gusti-ngurah-agung-hari-vijaya-kusuma-890061328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-gusti-ngurah-agung-hari-vijaya-kusuma-890061328" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@igstngragunghari2640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="igstngragunghari2640" height="30" width="40" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fi-gusti-ngurah-agung-hari-vijaya-kusuma-890061328">
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40igstngragunghari2640">
 </p>
 
-###
-<h3 align="left">I have tried:</h3>
-<div align="left">
+### 🗿 I've Tried This
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -116,8 +115,8 @@
 
 
 
-<br clear="both">
-<h3 align="left">I Love this snake</h3>
-<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
 
-###
+<h3>🐍 I Love this snake</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
+</p>
