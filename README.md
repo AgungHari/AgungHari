@@ -89,14 +89,35 @@
 </div>
 
 
-###
+### 🖥️ Open-Source Project
+<table>
+<tr><th>Machine Learning Project</th></tr>
+<tr><td>
 
-<h3 align="left">I Love this snake</h3>
+|Title | Stars | Tech|
+|--|--|--|
+| [Development of YOLOV8 based Autonomous Wheelchair for Obstacle Avoidance](https://github.com/AgungHari/Development-of-YOLOV8-based-Autonomous-Wheelchair-for-Obstacle-Avoidance) | <img alt="Stars" src="https://img.shields.io/github/stars/AgungHari/Development-of-YOLOV8-based-Autonomous-Wheelchair-for-Obstacle-Avoidance?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Roboflow](https://img.shields.io/badge/Roboflow-black?style=flat-square&logo=roboflow) ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![LaTeX](https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex) |
+| [YOLOv8 Based Human Tracking System for Autonomous Wheelchairs](https://github.com/AgungHari/YOLOv8-Based-Human-Tracking-System-for-Autonomous-Wheelchairs) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/YOLOv8-Based-Human-Tracking-System-for-Autonomous-Wheelchairs?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Roboflow](https://img.shields.io/badge/Roboflow-black?style=flat-square&logo=roboflow) ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Smart Wheelchair Control Based on Spatial Features of Hand Gesture](https://github.com/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture?style=flat-square&labelColor=black"/> | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat-square&logo=scikitlearn) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![LaTeX](https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex) |
+| [Wheelchair Control System Using Invisible Steering Gesture Based on LSTM](https://github.com/AgungHari/Wheelchair-Control-System-Using-Invisible-Steering-Gesture-Based-on-LSTM) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Wheelchair-Control-System-Using-Invisible-Steering-Gesture-Based-on-LSTM?style=flat-square&labelColor=black"/> | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat-square&logo=scikitlearn) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Roboflow](https://img.shields.io/badge/Roboflow-black?style=flat-square&logo=roboflow) ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+</td></tr> </table>
 
-###
+<table>
+<tr><th>Fun Project</th></tr>
+<tr><td>
+
+|Title | Stars | Tech|
+|--|--|--|
+| [Proglan Game Nazi Project Tank](https://github.com/AgungHari/Proglan-Game-Nazi-Project-Tank) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Proglan-Game-Nazi-Project-Tank?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus) ![SFML](https://img.shields.io/badge/SFML-black?style=flat-square&logo=sfml)|
+| [Universal ESP For Roblox](https://github.com/AgungHari/Universal-ESP-For-Roblox) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Universal-ESP-For-Roblox?style=flat-square&labelColor=black"/> | ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua) ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-black?style=flat-square&logo=robloxstudio) |
+| [Universal Teleport for Roblox](https://github.com/AgungHari/Universal-Teleport-for-Roblox) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Universal-Teleport-for-Roblox?style=flat-square&labelColor=black"/> | ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua) ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-black?style=flat-square&logo=robloxstudio) |
+</td></tr> </table>
+
+
+
 
 <br clear="both">
-
+<h3 align="left">I Love this snake</h3>
 <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
 
 ###
