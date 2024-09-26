@@ -1,6 +1,5 @@
 ![universal-personal-banner](agung2.png)
-<h1 align="center">Hi 👋, I'm Agung Hari</h1>
-<h3 align="center">AI Engineer from BALI</h3>
+<h3 align="left"> ॐ Om Swastiastu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=0e75b6&style=flat" alt="agunghari" /> </p>
 
@@ -12,7 +11,7 @@
 
 - ⚡ Fun fact **I play roblox**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👉👈 Connect with me</h3>
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fi-gusti-ngurah-agung-hari-vijaya-kusuma-890061328">
 <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40igstngragunghari2640">
