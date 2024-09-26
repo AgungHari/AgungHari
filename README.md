@@ -88,7 +88,7 @@ Final-year Computer Science student with a strong interest in Artificial Intelli
 
 ### 🖥️ Open-Source Project
 <table align="center">
-<tr><th>Machine Learning Project</th></tr>
+<tr><th>Computer Vision Project</th></tr>
 <tr><td>
 
 |Title | Stars | Tech|
