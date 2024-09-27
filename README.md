@@ -100,6 +100,16 @@ Fresh Graduate Computer Science student with a strong interest in Artificial Int
 </td></tr> </table>
 
 <table align="center">
+<tr><th>Machine Learning Project</th></tr>
+<tr><td>
+
+|Title | Stars | Tech|
+|--|--|--|
+| [TinyBERT Enhanced Chat System for Mobile Legends](https://github.com/AgungHari/TinyBERT-Enhanced-Chat-System-for-Mobile-Legends) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/TinyBERT-Enhanced-Chat-System-for-Mobile-Legends?style=flat-square&labelColor=black"/> | ![kaggle](https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle) ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat-square&logo=scikitlearn) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
+</td></tr> </table>
+
+
+<table align="center">
 <tr><th>Fun Project</th></tr>
 <tr><td>
 
