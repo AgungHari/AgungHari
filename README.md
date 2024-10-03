@@ -9,7 +9,7 @@ Fresh Graduate Computer Science student with a strong interest in Artificial Int
 - 💬 Don't ask me about **tanah**
 
 - ⚡ Fun fact **I play roblox**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=yellow&style=flat" alt="agunghari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fi-gusti-ngurah-agung-hari-vijaya-kusuma-890061328">
