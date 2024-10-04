@@ -8,7 +8,7 @@ Fresh Graduate Computer Science student with a strong interest in Artificial Int
 
 - 💬 Don't ask me about **tanah**
 
-- ⚡ Fun fact **I actually push my code and file manually.**
+- ⚡ Fun fact **I didn't connect my GitHub to VSCode**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
 <p align="left">
