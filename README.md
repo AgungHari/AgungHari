@@ -85,6 +85,15 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungHari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution" width="600" />
+</p>
+
+<h3>🐍 I Love this snake</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 ### 🖥️ Open-Source Project
 <table align="center">
@@ -122,12 +131,3 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 | [Universal ESP For Roblox](https://github.com/AgungHari/Universal-ESP-For-Roblox) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Universal-ESP-For-Roblox?style=flat-square&labelColor=black"/> | ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua) ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-black?style=flat-square&logo=robloxstudio) |
 | [Universal Teleport for Roblox](https://github.com/AgungHari/Universal-Teleport-for-Roblox) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Universal-Teleport-for-Roblox?style=flat-square&labelColor=black"/> | ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua) ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-black?style=flat-square&logo=robloxstudio) |
 </td></tr> </table>
-
-
-
-
-
-<h3>🐍 I Love this snake</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
-</p>
