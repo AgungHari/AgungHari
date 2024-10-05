@@ -1,9 +1,9 @@
 {
   "type": "season",
   "fileName": "info.svg",
-  "backgroundColor": "#0d1117",
+  "backgroundColor": "none",
   "foregroundColor": "#eeeeff",
-  "strongColor": "#111133",
+  "strongColor": "#FFD700",
   "weakColor": "gray",
   "radarColor": "#47a042",
   "growingAnimation": true,
