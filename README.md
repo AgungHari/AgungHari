@@ -2,7 +2,7 @@
 <h3 align="left"> ॐ Om Swastiastu</h3>
 Fresh Graduate Computer Engineering student with a strong interest in Artificial Intelligence (AI) and Machine Learning. I am passionate about leveraging AI technology to solve real-world problems and have developed skills in Computer Vision, Deep Learning, and Data Analysis. Eager to continuously learn and apply new AI technologies, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and innovation.
 
-- 🔭 I’m currently working on [Smart Wheelchair Control System Based on SIBI Gesture and Smart Braking System using YOLOv10 and LSTM](https://github.com/AgungHari/Smart-Wheelchair-Control-System-Based-on-SIBI-Gesture-and-Smart-Braking-System-using-YOLOv8-and-LSTM) and  [Prediksi Saham LSTM](https://github.com/AgungHari/Prediksi-Saham-LSTM)
+- 🔭 I’m currently working on [Forecasting USDCHF in Forex with LSTM](https://github.com/AgungHari/Forecasting-USDCHF-in-Forex-with-LSTM)
 
 - 🌱 I’m currently learning **how to manage time efficiently.**
 
@@ -89,7 +89,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
   <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
 </p>
 
-<h3>🐍 I Love this snake</h3>
+<h3 align = "center">🐍 I Love this snake 🐍</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
 </p>
