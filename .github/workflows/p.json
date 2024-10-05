@@ -1,5 +1,20 @@
 {
-  "palette": {
-    "background": "#0d1117" 
-  }
+  "type": "rainbow",
+  "fileName": "info.svg",
+  "backgroundColor": "#0d1117",  
+  "foregroundColor": "#000000",  
+  "strongColor": "rgb(255,200,55)",  
+  "weakColor": "#aaaaaa", 
+  "radarColor": "rgb(255,200,55)",  
+  "growingAnimation": true,
+  "saturation": "50%",
+  "contribLightness": [
+    "20%",
+    "30%",
+    "35%",
+    "40%",
+    "50%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
 }
