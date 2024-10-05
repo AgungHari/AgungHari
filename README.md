@@ -86,7 +86,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution" width="600" />
+  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
 </p>
 
 <h3>🐍 I Love this snake</h3>
