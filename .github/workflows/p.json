@@ -1,20 +1,19 @@
 {
-  "type": "rainbow",
+  "type": "season",
   "fileName": "info.svg",
-  "backgroundColor": "#0d1117",  
-  "foregroundColor": "#000000",  
-  "strongColor": "#111133",  
-  "weakColor": "#aaaaaa", 
-  "radarColor": "#47a042",  
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "#111133",
+  "weakColor": "gray",
+  "radarColor": "#47a042",
   "growingAnimation": true,
-  "saturation": "50%",
   "contribColors1": [
-      "#efefef",
-      "#ffe7ff",
-      "#edaeda",
-      "#e492ca",
-      "#ba7aad"
-    ],
+    "#efefef",
+    "#ffe7ff",
+    "#edaeda",
+    "#e492ca",
+    "#ba7aad"
+  ],
   "contribColors2": [
     "#efefef",
     "#d8e887",
@@ -35,7 +34,5 @@
     "#cccccc",
     "#dddddd",
     "#eeeeee"
-  ],
-  "duration": "4s",
-  "hueRatio": -7
+  ]
 }
