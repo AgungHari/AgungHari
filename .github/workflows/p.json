@@ -3,18 +3,39 @@
   "fileName": "info.svg",
   "backgroundColor": "#0d1117",  
   "foregroundColor": "#000000",  
-  "strongColor": "rgb(255,200,55)",  
+  "strongColor": "#111133",  
   "weakColor": "#aaaaaa", 
-  "radarColor": "rgb(255,200,55)",  
+  "radarColor": "#47a042",  
   "growingAnimation": true,
   "saturation": "50%",
-  "contribLightness": [
-    "20%",
-    "30%",
-    "35%",
-    "40%",
-    "50%"
+  "contribColors1": [
+      "#efefef",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+  "contribColors2": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
   ],
-  "duration": "10s",
+  "contribColors3": [
+    "#efefef",
+    "#ffed4a",
+    "#ffc402",
+    "#fe9400",
+    "#fa6100"
+  ],
+  "contribColors4": [
+    "#efefef",
+    "#999999",
+    "#cccccc",
+    "#dddddd",
+    "#eeeeee"
+  ],
+  "duration": "4s",
   "hueRatio": -7
 }
