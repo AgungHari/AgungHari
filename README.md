@@ -22,8 +22,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
     <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,pr,figma,django,blender,arduino,bootstrap,matlab,mysql,react,tailwind,robloxstudio,sklearn,flask,heroku,java,js,gcp,firebase,go,kotlin" />
   </a>
 </p>
-###
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgungHari&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" style="display: inline-block;" />
