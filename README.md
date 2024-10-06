@@ -26,7 +26,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 
 <div align="center">
   <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgungHari&theme=github&bg_color=none&hide_border=true" width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgungHari&theme=github&bg_color=none&hide_border=true&hide_title=true" width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
   </a>
   <img src="https://streak-stats.demolab.com?user=AgungHari&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
 </div>
