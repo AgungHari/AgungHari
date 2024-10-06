@@ -25,10 +25,11 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgungHari&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" style="display: inline-block;" />
-  <img src="https://streak-stats.demolab.com?user=AgungHari&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" style="display: inline-block;" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgungHari&theme=github&bg_color=none&hide_border=true" width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <img src="https://streak-stats.demolab.com?user=AgungHari&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
 </div>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
