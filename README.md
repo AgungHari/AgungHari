@@ -17,66 +17,11 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 </p>
 
 ### 🗿 I've Tried This
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,pr,figma,django,blender,arduino,bootstrap,matlab,mysql,react,tailwind,robloxstudio,sklearn,flask,heroku,java,js,gcp,firebase,go,kotlin" />
+  </a>
+</p>
 ###
 ###
 
