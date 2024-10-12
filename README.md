@@ -12,8 +12,12 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fi-gusti-ngurah-agung-hari-vijaya-kusuma-890061328">
-<img alt="Static Badge" href="https://www.youtube.com/@igstngragunghari2640" src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40igstngragunghari2640">
+  <a href="https://www.linkedin.com/in/i-gusti-ngurah-agung-hari-vijaya-kusuma-890061328" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://www.youtube.com/@igstngragunghari2640" target="_blank">
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube">
+  </a>
 </p>
 
 ### 🗿 I've Tried This
