@@ -11,14 +11,10 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 - ⚡ Fun fact **My friend calls me a prophet, but all I did was run `curl wttr.in/denpasar` in my terminal.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/i-gusti-ngurah-agung-hari-vijaya-kusuma-890061328" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://www.youtube.com/@igstngragunghari2640" target="_blank">
-      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube">
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/i-gusti-ngurah-agung-hari-vijaya-kusuma-890061328)
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://www.youtube.com/@igstngragunghari2640)
+
 
 ### 🗿 I've Tried This
 <p align="center">
