@@ -19,7 +19,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 ### 🗿 I've Tried This
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,pr,figma,django,blender,arduino,bootstrap,matlab,mysql,react,tailwind,vite,robloxstudio,sklearn,flask,heroku,java,js,gcp,firebase,go,kotlin,lua,npm,vercel" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,typescript,figma,django,blender,arduino,bootstrap,matlab,mysql,react,tailwind,vite,robloxstudio,sklearn,nodejs,heroku,java,js,gcp,firebase,go,kotlin,lua,npm,vercel" />
   </a>
 </p>
 
