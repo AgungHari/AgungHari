@@ -42,6 +42,16 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 
 
 ### 🖥️ Open-Source Project
+
+<table align="center">
+<tr><th>Web Project</th></tr>
+<tr><td>
+
+|Title | Stars | Tech|
+|--|--|--|
+| [Personal site agungg.com](https://github.com/AgungHari/personal-site-agung) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/personal-site-agung?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![FramerMotion](https://img.shields.io/badge/FramerMotion-black?style=flat-square&logo=framer)|
+</td></tr> </table>
+
 <table align="center">
 <tr><th>Computer Vision Project</th></tr>
 <tr><td>
