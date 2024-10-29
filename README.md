@@ -9,6 +9,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 - 💬 Don't ask me about **tanah**
 
 - ⚡ Fun fact **My friend calls me a prophet, but all I did was run `curl wttr.in/denpasar` in my terminal.**
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
 
