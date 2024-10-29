@@ -95,5 +95,3 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 ---
 
 <h3 align="center"> Kindly visit www.agungg.com or contact me via tyang@agungg.com for more information. </h3>
-
-[![universal-personal-banner](file99.png)](https://www.agungg.com/)
