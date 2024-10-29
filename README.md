@@ -92,5 +92,8 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 | [Mobile Server Switcher Roblox](https://github.com/AgungHari/Mobile-Server-Switcher-Roblox) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Mobile-Server-Switcher-Roblox?style=flat-square&labelColor=black"/> | ![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua) ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-black?style=flat-square&logo=robloxstudio) |
 </td></tr> </table>
 
-### Kindly visit www.agungg.com or contact me via tyang@agungg.com for more information.
+---
+
+<h3 align="center"> Kindly visit www.agungg.com or contact me via tyang@agungg.com for more information. </h3>
+
 [![universal-personal-banner](file99.png)](https://www.agungg.com/)
