@@ -61,7 +61,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 
 |Title | Stars | Tech|
 |--|--|--|
-| [Gajah Gotra](https://github.com/Gajah-Gemeter-Dev-Team/GajahGotra) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gajah-Gemeter-Dev-Team/GajahGotra?style=flat-square&labelColor=black"/> | ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=Expo) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MapBox](https://img.shields.io/badge/Mapbox-black?style=flat-square&logo=mapbox) ![Socket.io](https://img.shields.io/badge/socketdotio-black?style=flat-square&logo=socketdotio)|
+| [Gajah Gotra](https://github.com/Gajah-Gemeter-Dev-Team/GajahGotra) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gajah-Gemeter-Dev-Team/GajahGotra?style=flat-square&labelColor=black"/> | ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=Expo) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MapBox](https://img.shields.io/badge/Mapbox-black?style=flat-square&logo=mapbox) ![Socket.io](https://img.shields.io/badge/socketdotio-black?style=flat-square&logo=socketdotio)|
 </td></tr> </table>
 
 <table align="center">
