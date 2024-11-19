@@ -3,7 +3,7 @@
 
 Fresh Graduate Computer Engineering student with a strong interest in Artificial Intelligence (AI) and Machine Learning. I am passionate about leveraging AI technology to solve real-world problems and have developed skills in Computer Vision, Deep Learning, and Data Analysis. Eager to continuously learn and apply new AI technologies, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and innovation.
 
-- 🔭 I’m currently working on BelajarSKB
+- 🔭 I’m currently working on Belajar SKB
 
 - 🌱 I’m currently learning **how to manage time efficiently.**
 
