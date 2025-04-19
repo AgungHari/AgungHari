@@ -3,13 +3,15 @@
 
 Fresh Graduate Computer Engineering student with a strong interest in Artificial Intelligence (AI) and Machine Learning. I am passionate about leveraging AI technology to solve real-world problems and have developed skills in Computer Vision, Deep Learning, and Data Analysis. Eager to continuously learn and apply new AI technologies, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and innovation.
 
-- 🔭 I’m currently working on Belajar SKB
+- ✉️ reach me via gungwahari2@gmail.com
 
 - 🌱 I’m currently learning **how to manage time efficiently.**
 
 - 💬 Don't ask me about **tanah**
 
 - ⚡ Fun fact **My friend calls me a prophet, but all I did was run `curl wttr.in/denpasar` in my terminal.**
+
+- 🌐  Kindly visit www.agungg.com
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agunghari&label=Profile%20views&color=red&style=flat" alt="agunghari" /> </p>
 <h3 align="left">👉👈 Connect with me</h3>
@@ -104,4 +106,4 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 
 ---
 
-<h3 align="center"> Kindly visit www.agungg.com or contact me via tyang@agungg.com for more information. </h3>
+<h3 align="center"> Kindly visit www.agungg.com or contact me via gungwahari2@gmail.com for more information. </h3>
