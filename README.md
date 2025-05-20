@@ -66,16 +66,6 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 |Title | Stars | Tech|
 |--|--|--|
 | [Personal site agungg.com](https://github.com/AgungHari/personal-site-agung) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/personal-site-agung?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) <br> ![FramerMotion](https://img.shields.io/badge/FramerMotion-black?style=flat-square&logo=framer)|
-| [Gajah Gotra](https://github.com/Gajah-Gemeter-Dev-Team/GajahGotra) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gajah-Gemeter-Dev-Team/GajahGotra?style=flat-square&labelColor=black"/> | ![Nestjs](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=Nestjs) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MapBox](https://img.shields.io/badge/Mapbox-black?style=flat-square&logo=mapbox) ![Socket.io](https://img.shields.io/badge/socketdotio-black?style=flat-square&logo=socketdotio) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)|
-</td></tr> </table>
-
-<table align="center">
-<tr><th>Multi-Platform App Project</th></tr>
-<tr><td>
-
-|Title | Stars | Tech|
-|--|--|--|
-| [Gajah Gotra](https://github.com/Gajah-Gemeter-Dev-Team/GajahGotra) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gajah-Gemeter-Dev-Team/GajahGotra?style=flat-square&labelColor=black"/> | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MapBox](https://img.shields.io/badge/Mapbox-black?style=flat-square&logo=mapbox) ![Socket.io](https://img.shields.io/badge/socketdotio-black?style=flat-square&logo=socketdotio)|
 </td></tr> </table>
 
 <table align="center">
