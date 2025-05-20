@@ -90,8 +90,6 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
 | [USDCHF Multivariant Multitimestep Time Series Transformer](https://github.com/AgungHari/Multivariant-Multistep-Prediction-TST) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Multivariant-Multistep-Prediction-TST?style=flat-square&labelColor=black"/> | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat-square&logo=scikitlearn) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
 </td></tr> </table>
 
-https://github.com/AgungHari/Multivariant-Multistep-Prediction-TST
-
 <table align="center">
 <tr><th>Fun Project</th></tr>
 <tr><td>
