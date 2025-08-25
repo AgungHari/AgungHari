@@ -37,7 +37,7 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
   <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
 </p>
 
-<h3 align = "center">👾 I Love this Pacman 👾</h3>
+<h3 align = "center">👾 Pacman Contribution Graph 👾</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph-dark.svg">
