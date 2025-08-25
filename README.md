@@ -37,16 +37,15 @@ Fresh Graduate Computer Engineering student with a strong interest in Artificial
   <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
 </p>
 
-<h3 align = "center">🐍 I Love this snake 🐍</h3>
+<h3 align = "center">👾 I Love this Pacman 👾</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph.svg">
-</picture>
 
 ### 🖥️ Open-Source Project
 
