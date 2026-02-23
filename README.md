@@ -1,4 +1,4 @@
-[![universal-personal-banner](file3.png)](https://www.agungg.com/)
+[![universal-personal-banner](file11.png)](https://www.agungg.com/)
 <h3 align="left"> ॐ Om Swastiastu</h3>
 
 Vibe Coder Finall Boss with a strong interest in Data Science. I am passionate about leveraging AI technology to solve real-world problems and have developed skills in Machine Learning, Deep Learning, and Data Analysis. Eager to continuously learn and apply new AI technologies, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and innovation.
