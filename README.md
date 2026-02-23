@@ -33,10 +33,6 @@ Vibe Coder Finall Boss with a strong interest in Data Science. I am passionate a
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AgungHari&theme=transparent&hide_border=true&hide_current_streak=true" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
-</p>
-
 <h3 align = "center">👾 Pacman Contribution Graph 👾</h3>
 <p align="center">
   <picture>
@@ -45,6 +41,12 @@ Vibe Coder Finall Boss with a strong interest in Data Science. I am passionate a
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
+</p>
+
+
 
 
 ### 🖥️ Open-Source Project
