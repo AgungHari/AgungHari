@@ -18,7 +18,7 @@ Vibe Coder Finall Boss with a strong interest in Data Science. I am passionate a
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://www.youtube.com/@igstngragunghari2640)
 
 
-### 🗿 I've Tried This
+### 🗿 I've Tried This (yes im jack of all trade master of none)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,typescript,figma,django,blender,arduino,bootstrap,matlab,mysql,react,tailwind,vite,robloxstudio,sklearn,nodejs,heroku,java,js,gcp,firebase,go,kotlin,lua,npm,vercel" />
